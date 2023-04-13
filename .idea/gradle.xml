@@ -10,10 +10,21 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Catching some exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Converting and multiplying" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Method named process" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/What exceptions can be handled" />
             <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE with strings" />
             <option value="$PROJECT_DIR$/Topics/NPE/Return empty string when argument is null" />
             <option value="$PROJECT_DIR$/Topics/NPE/Theory" />
             <option value="$PROJECT_DIR$/Topics/NPE/Unknown input" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Days of the week" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/How to throw an exception" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Possible declaration" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an IOException" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throwing statements" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

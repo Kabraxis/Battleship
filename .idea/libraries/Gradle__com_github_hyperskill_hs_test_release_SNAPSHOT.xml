@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT">
+  <library name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" external-system-id="GRADLE">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/9612278c352e8f814fc173fb0b311bcb7b35be21/hs-test-release-SNAPSHOT.jar!/" />
     </CLASSES>
